@@ -15,7 +15,7 @@ You will need an iOS device to run the app since the camera functionality is uti
 ## Installation
 
 - Clone or download the repository to your local machine.
-- Open the project in Xcode by double-clicking the Snap Snap List.xcodeproj file.
+- Open the project in Xcode by double-clicking the Snap List.xcodeproj file.
 - Connect your iOS device to your Mac.
 - Select your device as the build target in Xcode.
 - Build and run the app on your iOS device.
